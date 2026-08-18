@@ -1,77 +1,58 @@
 <div align="center">
 
-# ☁️ AAKASH PANDIAN
-### **Enterprise Cloud Systems Designer & Visual Infrastructure Architect**
-*Translating Complex Cloud Topologies into Production-Ready Visual Systems*
+<!-- 3D-STYLE FUTURISTIC BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=diorama&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=AAKASH%20PANDIAN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="3D Architecture Banner" />
 
----
+### **🌐 Enterprise Cloud Systems Architect & Infrastructure Designer**
+*Specializing in High-Availability AWS Topologies, Infrastructure as Code, & System UI/UX*
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+<br />
+
+<!-- DYNAMIC TYPING STREAM -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=☁️+Multi-Region+AWS+Cloud+Architectures;⚡+Automated+IaC+with+Terraform+%26+Docker;🎨+Interactive+System+Topologies+%26+UI%2FUX;🛡️+Zero-Trust+Cloud+Security+%26+FinOps" alt="Typing SVG" />
+</a>
+
+<br /><br />
+
+<!-- HIGH-CONTRAST TECH BADGES -->
+[![AWS Architecture](https://img.shields.io/badge/AWS-Enterprise_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Container-Docker_Ecosystem-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
-<br/>
-
-## 📐 The Low-Code / High-Design Strategy
-
-I specialize in **Cloud Solutions Architecture** with a core focus on **Visual Systems Engineering**. I bridge the gap between heavy cloud infrastructure (AWS, Terraform, Kubernetes) and intuitive visual design (architecture blueprints, system maps, and UI/UX workflow diagrams). 
-
-🎯 Business Requirements ──► 📐 Visual Systems Blueprint ──► ⚡ Zero-Friction Cloud Deployment
-
+<br />
 
 ---
 
-## 🛠️ Tech Stack & Systems Tooling Matrix
+## 🏛️ System Architecture Topology
 
-| Layer | Technologies & Visual Tools |
-| :--- | :--- |
-| **Compute & Serverless** | `AWS Lambda` `EC2` `ECS` `Docker` `Node.js` |
-| **Storage & Databases** | `Amazon S3` `DynamoDB` `RDS (PostgreSQL)` `Redis` |
-| **Networking & Security** | `AWS API Gateway` `CloudFront` `Route 53` `IAM` `WAF` |
-| **Infrastructure as Code** | `Terraform` `AWS CloudFormation` `GitHub Actions` |
-| **Visual Architecture** | `Figma` `Lucidchart` `Draw.io` `System Design Mapping` |
-
----
-
-## 🏛️ Featured Cloud Architecture Blueprints
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3>🌐 Sovereign Cloud Engine</h3>
-      <p>Multi-region automated cloud infrastructure provisioned via <b>Terraform</b> with strict security compliance boundaries and automated failover monitoring.</p>
-      <code>Terraform</code> <code>AWS Lambda</code> <code>Route 53</code>
-    </td>
-    <td width="50%">
-      <h3>⚡ Serverless Analytics Pipeline</h3>
-      <p>High-throughput ingestion topology processing real-time traffic data with <b>S3 + API Gateway + Lambda execution</b> to cut operational server costs.</p>
-      <code>AWS API Gateway</code> <code>S3</code> <code>DynamoDB</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Live Cloud Infrastructure Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashpandian582006-ops&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&bg_color=1a1b26" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashpandian582006-ops&theme=tokyonight&hide_border=true&background=1a1b26&ring=7dcfff&fire=ff9e64&currStreakLabel=7dcfff" width="48%" />
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakash-pandian-cloudEngineering)
-[![Portfolio](https://img.shields.io/badge/S3_Portfolio-Live_Demo-FF9900?style=for-the-badge&logo=amazons3)](http://mybucky123-nx2026.s3-website.eu-north-1.amazonaws.com/)
-[![Email](https://img.shields.io/badge/Email-Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashpandian.5.8.2006@gmail.com)
-
-<sub>Crafted for Cloud Architecture Excellence © 2026</sub>
-
-</div>
+```text
+               ┌─────────────────────────────────────────┐
+               │    Global Users / Edge Ingestion        │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ▼
+               ┌─────────────────────────────────────────┐
+               │      AWS CloudFront + Route 53          │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ▼
+               ┌─────────────────────────────────────────┐
+               │         AWS API Gateway / WAF           │
+               └───────────┬─────────────────┬───────────┘
+                           │                 │
+                           ▼                 ▼
+             ┌───────────────────┐     ┌───────────────────┐
+             │  AWS Lambda Core  │     │   Amazon ECS/EC2  │
+             └─────────┬─────────┘     └─────────┬─────────┘
+                       │                         │
+                       └────────────┬────────────┘
+                                    │
+                                    ▼
+               ┌─────────────────────────────────────────┐
+               │  Amazon DynamoDB / Amazon S3 Bucket     │
+               └─────────────────────────────────────────┘
