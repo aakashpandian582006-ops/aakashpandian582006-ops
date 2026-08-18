@@ -2,7 +2,7 @@
 
 # ☁️ AAKASH PANDIAN
 ### **Enterprise Cloud Systems Architect & Infrastructure Designer**
-*Translating Complex Cloud Topologies into Production-Ready Visual Systems*
+*Bridging Complex Cloud Topologies with Production-Ready Visual Systems*
 
 <br />
 
