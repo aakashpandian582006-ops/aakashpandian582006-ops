@@ -17,13 +17,9 @@
     </td>
     <td width="62%" valign="top" style="background-color: #0d1117; padding: 20px;">
       <br />
-      <pre><code><span style="color:#00E599;">System.init</span>(<span style="color:#ffffff;">Enterprise_Cloud_Systems_Architect</span>)
---------------------------------------------------
-<span style="color:#888;">[STATUS]:</span> 🟢 OPERATIONAL (99.999% SLA)
-<span style="color:#888;">[ROLE]:</span> Computer Science & Cloud Architect
-<span style="color:#888;">[REGIONS]:</span> us-east-1 (Primary) | eu-central-1 (Failover)
-<span style="color:#888;">[CORE STACK]:</span> AWS Multi-Region | Terraform | EKS | Python
-<span style="color:#888;">[SECURITY]:</span> Zero-Trust IAM Boundary | SOC2 / ISO27001</code></pre>
+     <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00E599&vCenter=true&width=450&lines=System.init(Enterprise_Cloud_Architect);STATUS%3A+READY+%7C+Welcome+to+my+Terminal;STACK%3A+AWS+%7C+Terraform+%7C+EKS+%7C+Python" alt="Typing SVG" />
+</a>
       <br />
       <div>
         <a href="https://github.com/aakashpandian582006-ops"><img src="https://img.shields.io/badge/GITHUB-AAKASHPANDIAN582006--OPS-00E599?style=for-the-badge&logo=github&logoColor=0d1117" alt="GitHub Profile" /></a>
