@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOP HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00E599&height=80&section=header&text=AAKASH%20PANDIAN%20%7C%20ENTERPRISE%20CLOUD%20ARCHITECT&fontSize=32&fontColor=0d1117&fontAlignY=50&stroke=00E599&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E599&height=200&section=header&text=AAKASH%20PANDIAN&fontSize=42&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=ENTERPRISE%20CLOUD%20ARCHITECT&descAlignY=60&descAlign=0d1117" width="100%"/>
 
 </div>
 
